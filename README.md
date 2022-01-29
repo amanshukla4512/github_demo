@@ -1,2 +1,1 @@
-# hello_world
-just another repository
+this is math project
