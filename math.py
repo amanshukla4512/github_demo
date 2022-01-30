@@ -3,7 +3,7 @@ def add(x,y):
 	pass
 #sub function implementation
 def subtract(x,y):
-	pass
+	return x-y	#on remote Feature1
 #multiply function implmentation
 def multiply(x,y):
 	pass
