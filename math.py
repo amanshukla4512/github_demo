@@ -1,6 +1,6 @@
 #add function implementation
 def add(x,y):
-	pass
+	return x+y      #on local bug 123
 #sub function implementation
 def subtract(x,y):
 	pass
